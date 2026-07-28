@@ -1,53 +1,100 @@
-<div align="center">
+<p align="center">
+    <img src="assets/banners/banner-vanguard.png" alt="Vanguard Developments" width="100%">
+</p>
 
-# VANGUARD DEVELOPMENTS
+<p align="center">
 
-### Engenharia de Software • Ferramentas Profissionais • Ecossistemas
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-2E8B57?style=for-the-badge)
+![Fundação](https://img.shields.io/badge/Fundação-2026-0A84A5?style=for-the-badge)
+![Licença](https://img.shields.io/badge/Licença-Proprietária-555555?style=for-the-badge)
 
----
+<h1 align="center">Vanguard Developments</h1>
 
-Desenvolvendo ferramentas profissionais, ecossistemas e soluções para criadores, desenvolvedores e comunidades.
+<p align="center">
+<strong>Engenharia de Software • Ferramentas • Ecossistemas</strong>
+</p>
 
-</div>
-
----
-
-## Sobre a Vanguard
-
-A Vanguard Developments é um estúdio de desenvolvimento focado na criação de softwares, ferramentas e ecossistemas modernos para desenvolvedores, criadores e comunidades.
-
-Nosso compromisso é desenvolver soluções robustas, escaláveis e organizadas, seguindo padrões próprios de arquitetura, documentação e engenharia de software.
-
----
-
-## Nossa Filosofia
-
-Transformar ideias em plataformas sólidas, construindo um ecossistema integrado de ferramentas que prioriza qualidade, produtividade e evolução contínua.
+<p align="center">
+Desenvolvendo ferramentas profissionais, ecossistemas e soluções para desenvolvedores, criadores e comunidades.
+</p>
 
 ---
 
-## Projetos do Ecossistema
+## 🚀 Produtos
 
-Atualmente estamos desenvolvendo um conjunto de produtos que compartilham a mesma filosofia de engenharia.
+### Vanguard Studio
+Editor profissional para desenvolvimento de recursos GTA V/FiveM.
 
-Vanguard Studio
-Editor profissional para GTA V.
-
-────────────────────
-
-PilotFiles
+### PilotFiles
 Ferramentas para SketchUp.
 
-────────────────────
-
-lnOS
+### lnOS
 Plataforma para interfaces e aplicações.
 
-────────────────────
-
-Microferramentas FiveM
-Soluções para servidores e desenvolvedores.
+### Microferramentas FiveM
+Conjunto de utilitários voltados para desenvolvedores da plataforma FiveM.
 
 ---
 
-> **Este perfil representa o desenvolvimento oficial do Ecossistema Vanguard.**
+## 📦 Projetos
+
+| Projeto | Status |
+|---------|:------:|
+| 🚧 Vanguard Studio | Em desenvolvimento |
+| 🚧 PilotFiles | Em desenvolvimento |
+| 🚧 lnOS | Em desenvolvimento |
+| 🚧 Microferramentas FiveM | Em desenvolvimento |
+
+## 🎯 Nossa Visão
+
+Construir um ecossistema completo de ferramentas profissionais para desenvolvedores, criadores de conteúdo, empresas e comunidades, oferecendo soluções modernas, intuitivas e de alta qualidade.
+
+---
+
+## 🏗️ Áreas de Atuação
+
+- 💻 Desenvolvimento de Software
+- 🎮 Ferramentas para GTA V e FiveM
+- 🧩 Plugins e Extensões
+- 🎨 Design de Interfaces (UI/UX)
+- ☁️ Soluções para Criadores e Comunidades
+- 🚀 Pesquisa e Inovação
+
+---
+
+# Filosofia
+
+## 🏛️ Filosofia Vanguard
+
+```text
+Entender
+    ↓
+Planejar
+    ↓
+Projetar
+    ↓
+Implementar
+    ↓
+Validar
+    ↓
+Documentar
+    ↓
+Registrar
+```
+
+---
+
+<p align="center">
+  <strong>Vanguard Developments</strong><br>
+  Engenharia de Software • Ferramentas • Ecossistemas
+</p>
+
+<p align="center">
+  © 2026 Vanguard Developments
+</p>
+
+---
+
+<p align="center">
+Ecossistema Vanguard • Em desenvolvimento ativo
+</p>

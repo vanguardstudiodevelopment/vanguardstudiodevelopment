@@ -1,25 +1,42 @@
-# Vanguard Developments
+<div align="center">
 
-> Desenvolvendo ferramentas profissionais, ecossistemas e soluções para criadores, desenvolvedores e comunidades.
+# VANGUARD DEVELOPMENTS
+
+### Engenharia de Software • Ferramentas Profissionais • Ecossistemas
+
+---
+
+Desenvolvendo ferramentas profissionais, ecossistemas e soluções para criadores, desenvolvedores e comunidades.
+
+</div>
 
 ---
 
 ## Quem Somos
 
-A Vanguard Developments é um estúdio de desenvolvimento dedicado à criação de ferramentas, aplicações e ecossistemas voltados para produtividade, desenvolvimento de software e criação de conteúdo.
+A Vanguard Developments é um estúdio de desenvolvimento focado na criação de softwares, ferramentas e ecossistemas modernos para desenvolvedores, criadores e comunidades.
 
-Nosso objetivo é desenvolver soluções modernas, organizadas e escaláveis, priorizando qualidade, engenharia de software e evolução contínua.
+Nosso compromisso é desenvolver soluções robustas, escaláveis e organizadas, seguindo padrões próprios de arquitetura, documentação e engenharia de software.
 
 ---
 
 ## Nossa Missão
 
-Construir um ecossistema de ferramentas profissionais que simplifique o desenvolvimento, aumente a produtividade e ofereça uma experiência consistente para desenvolvedores e criadores.
+Transformar ideias em plataformas sólidas, construindo um ecossistema integrado de ferramentas que prioriza qualidade, produtividade e evolução contínua.
 
 ---
 
-## Em Desenvolvimento
+## Ecossistema Vanguard
 
-Atualmente estamos construindo os primeiros projetos do Ecossistema Vanguard.
+Atualmente estamos desenvolvendo um conjunto de produtos que compartilham a mesma filosofia de engenharia.
 
-Em breve este perfil reunirá toda a documentação, projetos e ferramentas desenvolvidas pela Vanguard Developments.
+- Vanguard Studio
+- PilotFiles
+- lnOS
+- Microferramentas FiveM
+- Marketplace
+- Documentação Técnica
+
+---
+
+> **Este perfil representa o desenvolvimento oficial do Ecossistema Vanguard.**
